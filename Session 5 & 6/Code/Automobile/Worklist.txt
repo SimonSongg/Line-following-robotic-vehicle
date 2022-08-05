@@ -1,0 +1,16 @@
+The work (functions) hasn't been finished
+===============================================================================
+~Check purple square on the ground
+~Check purple sign and distinguish the task
+//~Line following pid function need to be rewrite to fit different colors
+~Traffic light related function
+~Distance measurement related function
+~Short cut blue related function
+~Short cut green related function
+~Short cut red related function
+~Short cut yellow related function
+~Turn left related function
+~Turn right related function
+~Kick football related function
+~Count shapes related function
+~An interrupt button used to skip the current event

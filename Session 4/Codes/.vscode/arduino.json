@@ -1,0 +1,7 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "COM4",
+    "sketch": "Challanges\\8Sensors\\8Sensors.ino"
+}
